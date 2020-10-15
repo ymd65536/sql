@@ -1,10 +1,10 @@
 
-まれにgit push ができないときはgit statusを使って原因を調べよう。
-こんな感じに
->  git status
-> On branch main
-> Your branch is ahead of 'origin/main' by 1 commit.
-> (use "git push" to publish your local commits)
+まれにgit push ができないときはgit statusを使って原因を調べよう。  
+こんな感じに  
+>  git status  
+> On branch main  
+> Your branch is ahead of 'origin/main' by 1 commit.  
+> (use "git push" to publish your local commits)  
 
 # はじめの一歩
 
